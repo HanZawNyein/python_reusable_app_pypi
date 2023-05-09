@@ -1,1 +1,1 @@
-# Python Reusable App with Pypi
+# Standalone Python Package
